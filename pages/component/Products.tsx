@@ -171,7 +171,7 @@ const Products = () => {
                     <h5>Showing {limit} of {total} Products</h5>
                     <div className='sort'>
                         <h5>Sort By:</h5>
-                        <div className="dropdown">
+                        <div className="dropdown sorddropdoem">
                             <a
                                 className="btn btn-secondary dropdown-toggle ddstyle"
                                 href="#"
